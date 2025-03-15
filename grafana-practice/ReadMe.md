@@ -3,8 +3,8 @@
 ## Подготовка к запуску
 Склонируйте репозиторий и перейдите в папку проекта, в директорию `grafana-practice` 
 ```shell
-git clone https://github.com/avito-tech/aaa-ml-sys-design.git
-cd aaa-ml-sys-design/grafana-practice/
+git clone https://github.com/SirDaBoz/grafana-workshop.git
+cd grafana-workshop/grafana-practice/
 ```
 
 ## Запуск
