@@ -105,9 +105,6 @@ http://your_machine_ip:8089 - web ui locust'а.
    - далее выбираем `Add new panel`
    - в поле Series можно накликать график по CPU Usage у Сarbon: `carbon` -> `aggregator` -> `some-uid` -> `cpuUsage`
 
-Дальнейшее ознакомление с интерфейсов оставляю на личное усмотрение. 
-На workshop'е будем продолжать изучать и настраивать grafana и графики.
-
 ## Удалить созданные объекты на виртуальной машине
 
 - Почистить volumes можно так: `docker volume prune`
