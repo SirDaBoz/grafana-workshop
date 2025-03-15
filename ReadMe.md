@@ -1,7 +1,3 @@
-# ML System design
-
-3w [readme](./w3-model-evaluation/ReadMe.md)
-
 # Grafana Workshop
 [Grafana Workshop Readme](./grafana-practice/ReadMe.md)
 
